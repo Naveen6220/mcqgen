@@ -1,1 +1,1 @@
-# End to End MCQGEN bor using Langchain
+# End to End MCQGEN bot using Langchain
